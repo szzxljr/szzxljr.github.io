@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jiarong Li (Kevin)
+title: Jiarong Li
 
-# Name pronunciation (optional)
-name_pronunciation: 李嘉荣
+# # Name pronunciation (optional)
+# name_pronunciation: 李嘉荣
 
 # Full name (for SEO)
 first_name: Jiarong
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
