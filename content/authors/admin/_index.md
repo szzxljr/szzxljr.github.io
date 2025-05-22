@@ -54,7 +54,7 @@ education:
     date_start: 2022-09-01
     date_end: 2025-12-31
     summary: |
-      GPA: 3.94/4.0 (Rank: Top 7.5%). Jointly trained with Pengcheng Laboratory. 
+      GPA: 3.94/4.0 (Rank: Top 7.5%). 
       Supervisors: Prof. Wenbo Ding, Prof. Xiaojun Liang.
   - area: MEng in Industrial Engineering and Operations Research
     institution: University of California, Berkeley
