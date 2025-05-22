@@ -14,7 +14,7 @@ date: '2025-01-01'
 publishDate: '2025-05-22T04:02:59.799374Z'
 publication_types:
 - paper-conference
-publication: '*Springer Nature Singapore*'
+publication: '*International Conference on Cyberspace Simulation and Evaluation*'
 doi: 10.1007/978-981-96-4506-0_13
 abstract: The rapid evolution of machine learning and computer vision has given rise
   to numerous new tasks, primarily driven by deep convolutional neural networks’ ability
