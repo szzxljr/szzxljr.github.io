@@ -1,0 +1,29 @@
+---
+title: 'PhD forum abstract: Ubiquitous sensing system for activity and gesture recognition
+  via optical and energy-harvesting technologies'
+authors:
+- Jiarong Li
+date: '2024-01-01'
+publishDate: '2025-05-22T04:02:59.765591Z'
+publication_types:
+- paper-conference
+publication: '*2024 23rd ACM/IEEE International Conference on Information Processing
+  in Sensor Networks (IPSN)*'
+doi: 10.1109/IPSN61024.2024.00062
+abstract: This research focuses on ubiquitous sensing systems for activity and gesture
+  recognition through novel optical sensing and energy harvesting technologies such
+  as triboelectric nanogenerators (TENG), solar cells, and visible light communication
+  (VLC). The primary goal is to address the limitations of existing sensing systems
+  by creating a low-cost, energy-efficient, comprehensive solution that enhances sensor
+  integration and communication. Thus, this study utilizes TENG for contact sensing,
+  solar cells for non-contact sensing, and VLC for spatial sensing. The applied methodologies
+  achieve activity and gesture recognition, with accuracies up to 99.4% and 97.3%,
+  respectively. This work has potential applications in smart home automation, health
+  monitoring, and intelligent control by providing a more sustainable and user-friendly
+  approach to ubiquitous sensing.
+tags:
+- Ubiquitous Sensing
+- Optical Sensing
+- Energy Harvesting
+- Human-Computer Interaction
+---
