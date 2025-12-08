@@ -7,7 +7,7 @@ authors:
 - Jian Song
 - Zhong Lin Wang
 - Wenbo Ding
-date: 2025/08/22-01-01
+date: 2025-08-22
 publishDate: '2025-12-08T13:58:57.458645Z'
 publication_types:
 - article-journal

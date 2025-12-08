@@ -7,7 +7,7 @@ authors:
 - ' 董宇涵'
 - ' 宋健'
 - ' 张晓平'
-date: 2025/08/20-01-01
+date: 2025-08-20
 publishDate: '2025-12-08T13:58:57.433470Z'
 publication_types:
 - article-journal

@@ -17,7 +17,7 @@ authors:
 - Xiaojun Liang
 - Xiaomin Xu
 - Wenbo Ding
-date: 2025/12/05-01-01
+date: 2025-12-05
 publishDate: '2025-12-08T13:58:57.442880Z'
 publication_types:
 - article-journal
