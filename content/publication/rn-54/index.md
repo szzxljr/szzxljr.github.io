@@ -3,7 +3,7 @@ title: 'PhD forum abstract: Ubiquitous sensing system for activity and gesture r
   via optical and energy-harvesting technologies'
 authors:
 - Jiarong Li
-date: '2024-01-01'
+date: '2024-05-13'
 publishDate: '2025-05-22T04:02:59.765591Z'
 publication_types:
 - paper-conference

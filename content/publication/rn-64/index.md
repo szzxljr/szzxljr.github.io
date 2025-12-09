@@ -6,7 +6,7 @@ authors:
 - Xiang Wu
 - Qiuying Li
 - Yefeng Li
-date: '2018-01-01'
+date: '2018-10-14'
 publishDate: '2025-05-22T04:02:59.830360Z'
 publication_types:
 - paper-conference
