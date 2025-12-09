@@ -15,6 +15,7 @@ date: '2024-01-01'
 publishDate: '2025-05-22T04:02:59.853731Z'
 publication_types:
 - paper-conference
+featured: true
 publication: '*2024 IEEE 30th International Conference on Parallel and Distributed
   Systems (ICPADS)*'
 doi: 10.1109/ICPADS63350.2024.00075

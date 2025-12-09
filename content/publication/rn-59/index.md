@@ -20,6 +20,7 @@ date: '2023-01-01'
 publishDate: '2025-05-22T04:02:59.845468Z'
 publication_types:
 - article-journal
+featured: true
 publication: '*Nano Energy*'
 doi: https://doi.org/10.1016/j.nanoen.2023.108473
 abstract: Floor-based sensing systems to monitor human activities and identify users

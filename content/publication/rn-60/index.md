@@ -14,6 +14,7 @@ date: '2024-01-01'
 publishDate: '2025-05-22T04:02:59.868547Z'
 publication_types:
 - article-journal
+featured: true
 publication: '*Digital Signal Processing*'
 doi: https://doi.org/10.1016/j.dsp.2023.104340
 abstract: As wireless communication rapidly evolves and the demand for intelligent

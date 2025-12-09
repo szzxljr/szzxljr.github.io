@@ -11,6 +11,7 @@ date: 2025-08-22
 publishDate: '2025-12-08T13:58:57.458645Z'
 publication_types:
 - article-journal
+featured: true
 publication: '*Advanced Energy Materials*'
 doi: https://doi.org/10.1002/aenm.202502803
 abstract: "Modern optical communication systems, from fiber-optic networks to optical

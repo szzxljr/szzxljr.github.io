@@ -14,6 +14,7 @@ date: '2024-01-01'
 publishDate: '2025-05-22T04:02:59.784324Z'
 publication_types:
 - paper-conference
+featured: true
 publication: '*Proceedings of the 30th Annual International Conference on Mobile Computing
   and Networking*'
 doi: 10.1145/3636534.3694729

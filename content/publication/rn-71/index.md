@@ -21,6 +21,7 @@ date: 2025-12-05
 publishDate: '2025-12-08T13:58:57.442880Z'
 publication_types:
 - article-journal
+featured: true
 publication: '*Nano Energy*'
 doi: 10.1016/j.nanoen.2025.111639
 abstract: Wearable electronic systems have garnered significant interest due to their
