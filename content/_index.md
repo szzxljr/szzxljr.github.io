@@ -54,6 +54,25 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+    content:
+      title: Honors & Awards
+      text: |-
+        - **2025** — National Scholarship for Doctoral Students; Tsinghua University Outstanding Student Cadre Award; Tsinghua University December 9th Counselor Award.
+        - **2026** — Tsinghua University Outstanding Doctoral Dissertation; Outstanding Graduate, Tsinghua University; Outstanding Graduate, Beijing Municipality.
+        - **2024** — Tsinghua University Outstanding Graduate Student Communist Party Member.
+        - **Professional training** — Outstanding Trainee, Guangdong Digital Talent Development Program.
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: Openings
+      text: |-
+        I welcome inquiries from self-motivated students with backgrounds in electrical engineering, electronic engineering, computer science, mechanical engineering, and materials science, especially those who enjoy building and validating working systems. If you are interested in research collaboration or opportunities as a PhD, visiting, or undergraduate student, please contact me. Opportunities are subject to institutional arrangements and availability.
+
+        Please email me with a copy of your CV if you are interested.
+    design:
+      columns: '1'
   - block: collection
     content:
       title: Recent Publications

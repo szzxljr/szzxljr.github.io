@@ -20,19 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/
+  - name: Pengcheng Laboratory
+    url: https://www.pcl.ac.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:%73%7a%7a%78%6c%6a%72%40163.com'
-    label: 'szzxljr [at] 163 [dot] com'
+    url: 'mailto:jiarong.li00@gmail.com'
+    label: Email Me
   - icon: brands/github
     url: https://github.com/szzxljr
   - icon: brands/linkedin
@@ -47,12 +47,13 @@ interests:
   - Optical Wireless Communication
   - Human-Centered AI
   - Energy-Harvesting Technologies
+  - AI for Science (AI4S)
 
 education:
   - area: PhD in Data Science and Information Technology
     institution: Tsinghua University
     date_start: 2022-09-01
-    date_end: 2025-12-31
+    date_end: 2026-06-30
     summary: |
       GPA: 3.94/4.0 (Rank: Top 7.5%). 
       Supervisors: Prof. Wenbo Ding, Prof. Xiaojun Liang.
@@ -98,6 +99,15 @@ education:
 #       - Migrated infrastructure to a new data center
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+work:
+  - position: Research Assistant Professor
+    company_name: Pengcheng Laboratory
+    company_url: https://www.pcl.ac.cn/
+    date_start: 2026-08-07
+    date_end: ''
+    summary: |
+      Research in AI for Science (AI4S), optical wireless sensing, industrial intelligent systems, and human–machine interaction.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -167,4 +177,6 @@ languages:
 
 ## About Me
 
-Jiarong Li is a final year PhD candidate in Data Science and Information Technology at Tsinghua University. His research focuses on ubiquitous sensing systems, with an emphasis on optical wireless communication, energy-harvesting technologies, and human-centered indoor monitoring.
+Dr. Jiarong Li is a Research Assistant Professor at Pengcheng Laboratory, Shenzhen, China. He received his Ph.D. in Data Science and Information Technology from Tsinghua University in 2026, where he conducted joint research with Pengcheng Laboratory under the supervision of Prof. Wenbo Ding and Prof. Xiaojun Liang. He also holds an M.Eng. in Industrial Engineering and Operations Research from the University of California, Berkeley, an M.Sc. from Tsinghua University, and a B.Sc. from the University of Electronic Science and Technology of China.
+
+His research focuses on ubiquitous intelligent sensing and human–machine interaction, particularly optical wireless communication and sensing, self-powered and flexible sensors, and AI for Science (AI4S), with applications in human activity monitoring, industrial intelligence, and intelligent systems. He received the National Scholarship for Doctoral Students, the Tsinghua University Outstanding Doctoral Dissertation Award, the Outstanding Graduate honors from Tsinghua University and Beijing, the Tsinghua University December 9th Counselor Award, the Outstanding Student Cadre Award, and the Outstanding Graduate Student Communist Party Member Award. He was also recognized as an Outstanding Trainee in the Guangdong Digital Talent Development Program. Related research has been featured by *MIT Technology Review*, *DeepTech*, official Tsinghua SIGS news, and *Yan Zhi Cheng Li* (研之成理).
